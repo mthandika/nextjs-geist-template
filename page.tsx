@@ -128,7 +128,7 @@ export default function QRCodePage() {
         {/* Hero Image */}
         <div className="mb-8">
           <img 
-            src="https://placehold.co/1200x200?text=Generate+QR+Code+untuk+Menu+Digital" 
+            src="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/5f0861a9-018c-4f0a-82f3-d9550da303ad.png" 
             alt="Generate QR Code untuk Menu Digital" 
             onError={(e) => { e.currentTarget.style.display='none'; }} 
             className="w-full rounded-lg object-cover" 
